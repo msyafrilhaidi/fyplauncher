@@ -1,6 +1,9 @@
 # fyplauncher
 
-A new Flutter project.
+My Final Year Project in University. This app is an Android Launcher that boasts a dual access mode for parent and children. 
+
+- In the Parent Mode, the user can set limits and restrictions to the Child Mode. Such restrictions include access to certain applications and screen time.
+- In the Child Mode, the user can only access applications that have been allowed access. This allows for a safe environment for children.
 
 ## Getting Started
 
