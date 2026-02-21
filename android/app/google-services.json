@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535806692554",
+    "project_id": "fyplauncher-f7cf9",
+    "storage_bucket": "fyplauncher-f7cf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535806692554:android:8cc9167a18000f75263833",
+        "android_client_info": {
+          "package_name": "com.syafril.fyplauncher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChsgGY30uhZKkavY2ATLGO7Q1TVhGqdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
